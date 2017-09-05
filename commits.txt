@@ -1,0 +1,5 @@
+commit db99253c1138bd2ed4cbe8ffa11de909d2e2878c
+Author: David Flores <blur@MacBook-Pro-de-David.local>
+Date:   Mon Sep 4 21:28:12 2017 -0500
+
+    Hasta aqui la configuracion para desarrollo
